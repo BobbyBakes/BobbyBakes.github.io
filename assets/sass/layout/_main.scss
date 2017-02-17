@@ -32,12 +32,13 @@
 		.avatar {
 			position: relative;
 			margin-bottom: _size(element-margin);
-
+			margin-top: _size(element-margin-top);
 			img {
-				display: block;
+				// display: block;
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em _palette(bg);
+				width: 19em;
 			}
 
 			&:before {
@@ -49,7 +50,8 @@
 				width: calc(100% + 6em);
 				height: _size(border-width);
 				z-index: -1;
-				background: _palette(border);
+				
+				// background: _palette(border);
 			}
 		}
 
