@@ -1,7 +1,11 @@
 var gulp = require('gulp');
-var webpack = require('gulp-webpack');
+var sass = require('gulp-sass');
 gulp.task('default', function() {
-  return gulp.src('assets/js/form.js')
-    .pipe(webpack())
-    .pipe(gulp.dest('static/js'));
+    return gulp.src('assets/sass/*.scss')
+        .pipe(sass().on('error', sass.logError))
+        .pipe(gulp.dest('assets/css'));
+});
+
+gulp.task('sass:watch', function() {
+    gulp.watch('assets/ssass/*.scss', ['sass']);
 });
