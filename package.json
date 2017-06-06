@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My Resume",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobbyBakes/BobbyBakes.github.io.git"
+  },
+  "author": "Bobby Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobbyBakes/BobbyBakes.github.io/issues"
+  },
+  "homepage": "https://github.com/BobbyBakes/BobbyBakes.github.io#readme"
+}
