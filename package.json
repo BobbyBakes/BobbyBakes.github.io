@@ -4,7 +4,8 @@
   "description": "My Resume",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "yarn": "^0.24.5"
   },
   "devDependencies": {
     "gulp-sass": "^3.1.0"
