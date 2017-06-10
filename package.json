@@ -4,6 +4,7 @@
   "description": "My Resume",
   "main": "gulpfile.js",
   "dependencies": {
+    "front-end-dependency-inject": "^1.0.6",
     "gulp": "^3.9.1",
     "yarn": "^0.24.5"
   },
