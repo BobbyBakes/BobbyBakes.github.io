@@ -1,1 +1,6 @@
-console.log("hello");
+'use strict'
+$(function () {
+    $('#expandContact').on('click', function () {
+        $('#contactForm').show();
+    });
+});
