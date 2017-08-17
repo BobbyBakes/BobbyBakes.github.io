@@ -1,0 +1,189 @@
+{
+  "name": "Bobby Baker",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Columbus",
+    "region": "Ohio",
+    "country": "US",
+    "code": "43201",
+    "address": "83 W. 2nd Av #201"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Software Journeyman",
+        "employer": "Pillar Technology",
+        "summary": "Extreme Programming",
+        "current": true,
+        "start": "2016-10-16",
+        "end": "",
+        "url": "http://pillartechnology.com/",
+        "keywords": [],
+        "highlights": [
+          "Developing a cyber security solution on a cyber security project, using advanced analytics to identify malicious threats and vulnerabilities.",
+          "Developed applications and provided agile consulting on an embedded software project in the automotive industry. Working with Microservices, Ubuntu 14.04 and Vet.x framework."
+        ]
+      },
+      {
+        "position": "Freelancer",
+        "employer": "Bobby Baker",
+        "summary": "Full Stack Development",
+        "current": true,
+        "start": "2016-01-01",
+        "end": "",
+        "url": "http://bobbybakes.github.io",
+        "keywords": [],
+        "highlights": [
+          "Geoprocessing",
+          "Front End Applications",
+          "Server Side Applications",
+          "Web Mapping"
+        ]
+      },
+      {
+        "position": "Senior Developer, IT Applications",
+        "employer": "Nationwide Insurance",
+        "summary": "J2EE, customer-facing web applications",
+        "start": "2014-08-01",
+        "end": "2016-10-16",
+        "url": "https://www.nationwide.com/",
+        "keywords": [],
+        "highlights": [
+          "Tech Lead / Mentor",
+          "Java / Spring MVC"
+        ]
+      },
+      {
+        "position": "GIS Analyst",
+        "employer": "Stantec",
+        "summary": "GIS Development and Analytical Cartography",
+        "start": "2012-04-01",
+        "end": "2014-08-01",
+        "url": "http://www.stantec.com/",
+        "keywords": [],
+        "highlights": [
+          "Interactive Mapping Applications and Add-ons",
+          "FEMA flood plane mapping"
+        ]
+      },
+      {
+        "position": "GIS Specialist",
+        "employer": "The Ohio Department of Natural Resources",
+        "summary": "GIS Analyst",
+        "start": "2008-01-01",
+        "end": "2012-04-01",
+        "url": "http://ohiodnr.gov/",
+        "keywords": [],
+        "highlights": [
+          "Groundwater Resource Mapping"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "The Ohio State University",
+        "start": "2004-08-01",
+        "end": "2008-06-01",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Geographic Information Systems and Analytical Cartography",
+        "studyType": "Bachelor of Science"
+      }
+    ]
+  },
+  "service": {},
+  "skills": {
+    "sets": [
+      {
+        "name": "MEAN",
+        "level": "master",
+        "skills": [
+          "Mongo",
+          "Express",
+          "Angular",
+          "Node"
+        ]
+      },
+      {
+        "name": "J2EE",
+        "level": "master",
+        "skills": [
+          "WebSphere",
+          "Java",
+          "JSP",
+          "Gradle",
+          "Maven",
+          "Spring MVC"
+        ]
+      },
+      {
+        "name": "Micro Services",
+        "level": "intermediate",
+        "skills": [
+          "Vert.x"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bobbyabaker/",
+      "user": "bobbyabaker"
+    },
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/BobbyBakes",
+      "user": "BobbyBakes"
+    },
+    {
+      "label": "Instagram",
+      "network": "Instagram",
+      "url": "https://www.instagram.com/abobby4you/",
+      "user": "abobby4you"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Kayaking",
+      "keywords": [
+        "Fishing",
+        "Extreme",
+        "Liesure"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+        "Backpacking"
+      ]
+    },
+    {
+      "name": "Camping ",
+      "keywords": [
+        "Minimalist"
+      ]
+    },
+    {
+      "name": "Photography"
+    }
+  ],
+  "testimonials": 0,
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
         "email": "bobby.a.baker@gmail.com",
         "phone": "5134044499",
         "website": "http://bobbybakes.github.io/",
-        "summary": "A results-driven Software Engineer. Striving to turn data, into knowledge. ",
+        "summary": "A results-driven Software Engineer. Striving to turn data, into knowledge.",
         "location": {
             "address": "83 W. 2nd Av #201",
             "postalCode": "43201",
@@ -41,7 +41,7 @@
             "highlights": [
                 "Geoprocessing",
                 "Front End Applications",
-                "Server Side Application",
+                "Server Side Applications",
                 "Web Mapping"
             ]
         },
@@ -51,11 +51,10 @@
             "website": "http://pillartechnology.com/",
             "startDate": "2016-10-16",
             "endDate": "",
-            "summary": "Test Driven Development ",
+            "summary": "Extreme Programming",
             "highlights": [
-                "Developing a cyber security solution on a cybersecurity project  using advanced analytics to deliver business value. ",
-                "Developed applications and provided agile consulting on an embedded software project in the automotive industry. Working with Microservices, Ubuntu 14.04 and Vet.x framework.",
-                ""
+                "Developing a cyber security solution on a cyber security project, using advanced analytics to identify malicious threats and vulnerabilities.",
+                "Developed applications and provided agile consulting on an embedded software project in the automotive industry. Working with Microservices, Ubuntu 14.04 and Vet.x framework."
             ]
         },
         {
@@ -67,7 +66,7 @@
             "summary": "J2EE, customer-facing web applications",
             "highlights": [
                 "Tech Lead / Mentor",
-                "Java / Spring MVC",
+                "Java / Spring MVC"
             ]
         },
         {
@@ -76,8 +75,11 @@
             "website": "http://www.stantec.com/",
             "startDate": "2012-04-01",
             "endDate": "2014-08-01",
-            "summary": "TODO",
-            "highlights": []
+            "summary": "GIS Development and Analytical Cartography",
+            "highlights": [
+                "Interactive Mapping Applications and Add-ons",
+                "FEMA flood plane mapping"
+            ]
         },
         {
             "company": "The Ohio Department of Natural Resources",
@@ -85,8 +87,10 @@
             "website": "http://ohiodnr.gov/",
             "startDate": "2008-01-01",
             "endDate": "2012-04-01",
-            "summary": "",
-            "highlights": []
+            "summary": "GIS Analyst",
+            "highlights": [
+                "Groundwater Resource Mapping"
+            ]
         }
     ],
     "volunteer": [],
@@ -103,7 +107,7 @@
     "publications": [],
     "skills": [{
             "name": "MEAN",
-            "level": "",
+            "level": "master",
             "keywords": [
                 "Mongo",
                 "Express",
@@ -113,7 +117,7 @@
         },
         {
             "name": "J2EE",
-            "level": "",
+            "level": "master",
             "keywords": [
                 "WebSphere",
                 "Java",
@@ -125,7 +129,7 @@
         },
         {
             "name": "Micro Services",
-            "level": "",
+            "level": "intermediate",
             "keywords": [
                 "Vert.x"
             ]
@@ -136,7 +140,7 @@
         "fluency": "Native speaker"
     }],
     "interests": [{
-            "name": "Kaking",
+            "name": "Kayaking",
             "keywords": [
                 "Fishing",
                 "Extreme",
@@ -152,8 +156,11 @@
         {
             "name": "Camping ",
             "keywords": [
-                "Minimalist",
+                "Minimalist"
             ]
+        },
+        {
+            "name": "Photography"
         }
     ],
     "references": []
