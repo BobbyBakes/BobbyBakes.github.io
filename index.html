@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
+
+<head>
     <title>Bobby Baker</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -10,7 +11,9 @@
 
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css" />
+    </noscript>
 </head>
 
 <body class="is-loading">
@@ -21,7 +24,7 @@
         <!-- Main -->
         <section id="main">
             <header>
-                <img src="images/bobAvatar.jpg" alt="" />
+                <span class="avatar"><img src="images/bobAvatar.jpg" alt="" /></span>
                 <h1>Bobby Baker</h1>
                 <p>Software Engineer</p>
             </header>
@@ -44,6 +47,7 @@
                 </div>
                 <button>Submit</button>
             </form>
+                    <h2><a href="resume/bakerResume.html"  target="_blank">Resume</a></h2>
             <hr />
             <footer>
                 <ul class="icons">
@@ -67,14 +71,14 @@
     <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
     <script>
         if ('addEventListener' in window) {
-            window.addEventListener('load', function() {
+            window.addEventListener('load', function () {
                 document.body.className = document.body.className.replace(/\bis-loading\b/, '');
             });
             document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
         }
-
     </script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+        crossorigin="anonymous"></script>
     <script type="application/javascript" src="assets/js/app.js"></script>
 </body>
 

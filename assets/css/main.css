@@ -169,7 +169,8 @@ h6 {
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 1.65em; } }
+    font-size: 1.65em;
+    padding: 1em; } }
 
 sub {
   font-size: 0.8em;
