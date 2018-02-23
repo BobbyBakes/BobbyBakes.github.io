@@ -1,148 +1,148 @@
 {
     "basics": {
         "name": "Bobby Baker",
-            "label": "Software Engineer",
-            "picture": "http://bobbybakes.github.io/images/bobAvatar.jpg",
-            "email": "bobby.a.baker@gmail.com",
-            "phone": "5134044499",
-            "website": "http://bobbybakes.github.io/",
-            "summary": "A test-driven Software Engineer. Striving to turn data, into knowledge.",
-            "location": {
-                "address": "83 W. 2nd Av #201",
-                "postalCode": "43201",
-                "city": "Columbus",
-                "countryCode": "US",
-                "region": "Ohio"
-            },
-            "profiles": [{
-                "network": "LinkedIn",
-                "username": "bobbyabaker",
-                "url": "https://www.linkedin.com/in/bobbyabaker/"
-            },
-            {
-                "network": "GitHub",
-                "username": "BobbyBakes",
-                "url": "https://github.com/BobbyBakes"
-            },
-            {
-                "network": "Instagram",
-                "username": "abobby4you",
-                "url": "https://www.instagram.com/abobby4you/"
-            }
+        "label": "Software Engineer",
+        "picture": "http://bobbybakes.github.io/images/bobAvatar.jpg",
+        "email": "bobby.a.baker@gmail.com",
+        "phone": "5134044499",
+        "website": "http://bobbybakes.github.io/",
+        "summary": "A test-driven Software Engineer. Striving to turn data, into knowledge.",
+        "location": {
+            "address": "83 W. 2nd Av #201",
+            "postalCode": "43201",
+            "city": "Columbus",
+            "countryCode": "US",
+            "region": "Ohio"
+        },
+        "profiles": [{
+            "network": "LinkedIn",
+            "username": "bobbyabaker",
+            "url": "https://www.linkedin.com/in/bobbyabaker/"
+        },
+        {
+            "network": "GitHub",
+            "username": "BobbyBakes",
+            "url": "https://github.com/BobbyBakes"
+        },
+        {
+            "network": "Instagram",
+            "username": "abobby4you",
+            "url": "https://www.instagram.com/abobby4you/"
+        }
         ]
     },
-        "work": [{
-            "company": "Bobby Baker",
-            "position": "Freelancer",
-            "website": "http://bobbybakes.github.io",
-            "startDate": "2016-01-01",
-            "endDate": "",
-            "summary": "Test Driven Development",
-            "highlights": [ "Geoprocessing", "Front End Applications", "Server Side Applications", "Web Mapping", "iOS Applications", "Android Applications" ]
-        },
-        {
-            "company": "Pillar Technology",
-            "position": "Software Journeyman",
-            "website": "http://pillartechnology.com/",
-            "startDate": "2016-10-16",
-            "endDate": "",
-            "summary": "Extreme Programming",
-            "highlights": [
-                "Developing a big data platform as a service for data scientists in the automotive industry." , "Developed a cyber security solution, using advanced analytics to aggrigate and identify malicious threats and vulnerabilities.", "Developed applications and provided agile consulting on an embedded software project in the automotive industry." ]
-        },
-        {
-            "company": "Nationwide Insurance",
-            "position": "Senior Developer, IT Applications",
-            "website": "https://www.nationwide.com/",
-            "startDate": "2014-08-01",
-            "endDate": "2016-10-16",
-            "summary": "J2EE, customer-facing web applications",
-            "highlights": [
-                "Tech Lead / Mentor",
+    "work": [{
+        "company": "Bobby Baker",
+        "position": "Freelancer",
+        "website": "http://bobbybakes.github.io",
+        "startDate": "2016-01-01",
+        "endDate": "",
+        "summary": "Test Driven Development",
+        "highlights": [ "Geoprocessing", "Front End Applications", "Server Side Applications", "Web Mapping", "iOS Applications", "Android Applications" ]
+    },
+    {
+        "company": "Pillar Technology",
+        "position": "Software Journeyman",
+        "website": "http://pillartechnology.com/",
+        "startDate": "2016-10-16",
+        "endDate": "",
+        "summary": "Extreme Programming",
+        "highlights": [
+            "Developing a big data platform as a service for data scientists in the automotive industry." , "Developed a cyber security solution, using advanced analytics to aggrigate and identify malicious threats and vulnerabilities.", "Developed applications and provided agile consulting on an embedded software project in the automotive industry." ]
+    },
+    {
+        "company": "Nationwide Insurance",
+        "position": "Senior Developer, IT Applications",
+        "website": "https://www.nationwide.com/",
+        "startDate": "2014-08-01",
+        "endDate": "2016-10-16",
+        "summary": "J2EE, customer-facing web applications",
+        "highlights": [
+            "Tech Lead / Mentor",
             "Java / Spring MVC"
-                ]
-        },
-        {
-            "company": "Stantec",
-            "position": "GIS Analyst",
-            "website": "http://www.stantec.com/",
-            "startDate": "2012-04-01",
-            "endDate": "2014-08-01",
-            "summary": "GIS Development and Analytical Cartography",
-            "highlights": [
-                "Interactive Mapping Applications and Add-ons",
+        ]
+    },
+    {
+        "company": "Stantec",
+        "position": "GIS Analyst",
+        "website": "http://www.stantec.com/",
+        "startDate": "2012-04-01",
+        "endDate": "2014-08-01",
+        "summary": "GIS Development and Analytical Cartography",
+        "highlights": [
+            "Interactive Mapping Applications and Add-ons",
             "FEMA flood plane mapping"
+        ]
+    },
+    {
+        "company": "The Ohio Department of Natural Resources",
+        "position": "GIS Specialist",
+        "website": "http://ohiodnr.gov/",
+        "startDate": "2008-01-01",
+        "endDate": "2012-04-01",
+        "summary": "GIS Analyst",
+        "highlights": [
+            "Groundwater Resource Mapping"
                 ]
-        },
-        {
-            "company": "The Ohio Department of Natural Resources",
-            "position": "GIS Specialist",
-            "website": "http://ohiodnr.gov/",
-            "startDate": "2008-01-01",
-            "endDate": "2012-04-01",
-            "summary": "GIS Analyst",
-            "highlights": [
-                "Groundwater Resource Mapping"
-                ]
-        }
+    }
     ],
-        "volunteer": [],
-        "education": [{
-            "institution": "The Ohio State University",
-            "area": "Geographic Information Systems and Analytical Cartography",
-            "studyType": "Bachelor of Science",
-            "startDate": "2004-08-01",
-            "endDate": "2008-06-01"
-        }],
-        "awards": [],
-        "publications": [],
-        "skills": [{
-            "name": "MEAN",
-            "level": "master",
-            "keywords": [ "Mongo", "Express", "Angular 1/2", "Node" ]
-        },
-        {
-            "name": "J2EE",
-            "level": "master",
-            "keywords": [ "WebSphere", "Java", "JSP", "Gradle", "Maven", "Groovy", "Spring MVC" ]
-        },
-        {
-            "name": "Micro Services",
-            "level": "intermediate",
-            "keywords": [ "Vert.x", "AWS" ]
-        },
-        {
-            "name": "Big Data",
-            "level": "master",
-            "keywords": ["Hadoop", "HBASE", "SPARK"]
-        },
-        {
-            "name": "Dev Ops",
-            "level": "master",
-            "keywords": ["Jenkins", "AWS", "Docker"]
-        }
+    "volunteer": [],
+    "education": [{
+        "institution": "The Ohio State University",
+        "area": "Geographic Information Systems and Analytical Cartography",
+        "studyType": "Bachelor of Science",
+        "startDate": "2004-08-01",
+        "endDate": "2008-06-01"
+    }],
+    "awards": [],
+    "publications": [],
+    "skills": [{
+        "name": "MEAN",
+        "level": "master",
+        "keywords": [ "Mongo", "Express", "Angular 1/2", "Node" ]
+    },
+    {
+        "name": "J2EE",
+        "level": "master",
+        "keywords": [ "WebSphere", "Java", "JSP", "Gradle", "Maven", "Groovy", "Spring MVC" ]
+    },
+    {
+        "name": "Micro Services",
+        "level": "intermediate",
+        "keywords": [ "Vert.x", "AWS" ]
+    },
+    {
+        "name": "Big Data",
+        "level": "master",
+        "keywords": ["Hadoop", "HBASE", "SPARK"]
+    },
+    {
+        "name": "Dev Ops",
+        "level": "master",
+        "keywords": ["Jenkins", "AWS", "Docker"]
+    }
 
 
     ],
-        "languages": [{
-            "language": "English",
-            "fluency": "Native speaker"
-        }],
-        "interests": [{
-            "name": "Kayaking",
-            "keywords": [ "Fishing", "Extreme", "Liesure" ]
-        },
-        {
-            "name": "Hiking",
-            "keywords": [ "Backpacking" ]
-        },
-        {
-            "name": "Camping ",
-            "keywords": [ "Minimalist" ]
-        },
-        {
-            "name": "Photography"
-        }
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }],
+    "interests": [{
+        "name": "Kayaking",
+        "keywords": [ "Fishing", "Extreme", "Liesure" ]
+    },
+    {
+        "name": "Hiking",
+        "keywords": [ "Backpacking" ]
+    },
+    {
+        "name": "Camping ",
+        "keywords": [ "Minimalist" ]
+    },
+    {
+        "name": "Photography"
+    }
     ],
-        "references": []
+    "references": []
 }
