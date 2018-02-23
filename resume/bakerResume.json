@@ -201,7 +201,23 @@
       "name": "Photography"
     }
   ],
-  "testimonials": 0,
+  "testimonials": [
+    {
+      "name": "Brad Ziss",
+      "flavor": "professional",
+      "private": false
+    },
+    {
+      "name": "Andrea Andrews",
+      "flavor": "professional",
+      "private": false
+    },
+    {
+      "name": "Jon Carder",
+      "flavor": "professional",
+      "private": false
+    }
+  ],
   "languages": [
     {
       "language": "English",

@@ -152,4 +152,16 @@ interests:
       - Minimalist
   -
     name: Photography
-references: []
+references:
+  -
+    name: 'Brad Ziss'
+    phone: '(614) 260-9753  • Mobile'
+    email: 'bradziss@yahoo.com  • Personal'
+  -
+    name: 'Andrea Andrews'
+    phone: '(614) 893-3028  • Mobile'
+    email: 'ANDREA3@nationwide.com  • Work'
+  -
+    name: 'Jon Carder'
+    phone: '(740)-816-44445  • Mobile'
+    email: jcarder@pillartechnology.com
