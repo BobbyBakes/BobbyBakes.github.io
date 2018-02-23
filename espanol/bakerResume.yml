@@ -35,7 +35,7 @@ work:
     summary: 'Extreme Programming'
     highlights:
       - 'Developing a big data platform as a service for data scientists in the automotive industry.'
-      - 'Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.'
+      - 'Developed a cyber security solution, using advanced analytics to aggrigate and identify malicious threats and vulnerabilities.'
       - 'Developed applications and provided agile consulting on an embedded software project in the automotive industry.'
   -
     company: 'Bobby Baker'
@@ -45,7 +45,6 @@ work:
     endDate: ""
     summary: 'Test Driven Development'
     highlights:
-      - AWS
       - Geoprocessing
       - 'Front End Applications'
       - 'Server Side Applications'
@@ -71,7 +70,7 @@ work:
     summary: 'GIS Development and Analytical Cartography'
     highlights:
       - 'Interactive Mapping Applications and Add-ons'
-      - 'FEMA floodplane mapping'
+      - 'FEMA flood plane mapping'
   -
     company: 'The Ohio Department of Natural Resources'
     position: 'GIS Specialist'
@@ -112,7 +111,7 @@ skills:
       - Groovy
       - 'Spring MVC'
   -
-    name: Microservices
+    name: 'Micro Services'
     level: intermediate
     keywords:
       - Vert.x
@@ -141,7 +140,7 @@ interests:
     keywords:
       - Fishing
       - Extreme
-      - Leisure
+      - Liesure
   -
     name: Hiking
     keywords:

@@ -14,6 +14,8 @@
     "wkhtmltopdf": "^0.3.4"
   },
   "devDependencies": {
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-flat-es": "0.0.1",
     "jsonresume-theme-paper": "^0.3.5"
   }
 }

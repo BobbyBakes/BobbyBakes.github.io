@@ -10,7 +10,8 @@
     "yarn": "^0.24.5"
   },
   "devDependencies": {
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^3.1.0",
+    "jsonresume-theme-flat-es": "0.0.1"
   },
   "scripts": {
     "test": "test"

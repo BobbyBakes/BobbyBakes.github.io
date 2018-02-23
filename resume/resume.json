@@ -38,7 +38,7 @@
         "startDate": "2016-01-01",
         "endDate": "",
         "summary": "Test Driven Development",
-        "highlights": [ "Geoprocessing", "Front End Applications", "Server Side Applications", "Web Mapping", "iOS Applications", "Android Applications" ]
+        "highlights": ["AWS",  "Geoprocessing", "Front End Applications", "Server Side Applications", "Web Mapping", "iOS Applications", "Android Applications" ]
     },
     {
         "company": "Pillar Technology",
@@ -48,7 +48,7 @@
         "endDate": "",
         "summary": "Extreme Programming",
         "highlights": [
-            "Developing a big data platform as a service for data scientists in the automotive industry." , "Developed a cyber security solution, using advanced analytics to aggrigate and identify malicious threats and vulnerabilities.", "Developed applications and provided agile consulting on an embedded software project in the automotive industry." ]
+            "Developing a big data platform as a service for data scientists in the automotive industry." , "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.", "Developed applications and provided agile consulting on an embedded software project in the automotive industry." ]
     },
     {
         "company": "Nationwide Insurance",
@@ -71,7 +71,7 @@
         "summary": "GIS Development and Analytical Cartography",
         "highlights": [
             "Interactive Mapping Applications and Add-ons",
-            "FEMA flood plane mapping"
+            "FEMA floodplane mapping"
         ]
     },
     {
@@ -107,7 +107,7 @@
         "keywords": [ "WebSphere", "Java", "JSP", "Gradle", "Maven", "Groovy", "Spring MVC" ]
     },
     {
-        "name": "Micro Services",
+        "name": "Microservices",
         "level": "intermediate",
         "keywords": [ "Vert.x", "AWS" ]
     },
@@ -130,7 +130,7 @@
     }],
     "interests": [{
         "name": "Kayaking",
-        "keywords": [ "Fishing", "Extreme", "Liesure" ]
+        "keywords": [ "Fishing", "Extreme", "Leisure" ]
     },
     {
         "name": "Hiking",

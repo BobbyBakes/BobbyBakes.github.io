@@ -25,7 +25,7 @@
         "keywords": [],
         "highlights": [
           "Developing a big data platform as a service for data scientists in the automotive industry.",
-          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
+          "Developed a cyber security solution, using advanced analytics to aggrigate and identify malicious threats and vulnerabilities.",
           "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
         ]
       },
@@ -39,7 +39,6 @@
         "url": "http://bobbybakes.github.io",
         "keywords": [],
         "highlights": [
-          "AWS",
           "Geoprocessing",
           "Front End Applications",
           "Server Side Applications",
@@ -71,7 +70,7 @@
         "keywords": [],
         "highlights": [
           "Interactive Mapping Applications and Add-ons",
-          "FEMA floodplane mapping"
+          "FEMA flood plane mapping"
         ]
       },
       {
@@ -128,7 +127,7 @@
         ]
       },
       {
-        "name": "Microservices",
+        "name": "Micro Services",
         "level": "intermediate",
         "skills": [
           "Vert.x",
@@ -182,7 +181,7 @@
       "keywords": [
         "Fishing",
         "Extreme",
-        "Leisure"
+        "Liesure"
       ]
     },
     {
