@@ -7,7 +7,7 @@
     "front-end-dependency-inject": "^1.0.6",
     "gulp": "^3.9.1",
     "jquery": "^3.2.1",
-    "yarn": "^0.24.5"
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "gulp-sass": "^3.1.0",
