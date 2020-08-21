@@ -2,7 +2,7 @@
   "name": "Bobby Baker",
   "info": {
     "label": "Software Engineer",
-    "image": "http://bobbybakes.github.io/images/bobAvatar.jpg",
+    "image": "../images/bobAvatar.jpg",
     "brief": "Striving to turn data, into knowledge."
   },
   "contact": {
@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-08-21T07:35:18.135Z"
+    "modified": "2020-08-21T13:28:59.322Z"
   },
   "location": {
     "city": "",

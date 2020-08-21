@@ -1,7 +1,7 @@
 basics:
   name: 'Bobby Baker'
   label: 'Software Engineer'
-  picture: 'http://bobbybakes.github.io/images/bobAvatar.jpg'
+  picture: ../images/bobAvatar.jpg
   email: bobby.a.baker@gmail.com
   phone: +1-513-404-4499
   website: 'http://bobbybakes.github.io/'
