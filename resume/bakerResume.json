@@ -1,51 +1,57 @@
 {
   "name": "Bobby Baker",
-  "info": {},
+  "info": {
+    "label": "Software Engineer",
+    "image": "http://bobbybakes.github.io/images/bobAvatar.jpg",
+    "brief": "Striving to turn data, into knowledge."
+  },
+  "contact": {
+    "email": "bobby.a.baker@gmail.com",
+    "phone": "+1-513-404-4499",
+    "website": "http://bobbybakes.github.io/"
+  },
   "meta": {
-    "format": "FRESH@0.6.0",
-    "version": "0.1.0"
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2020-08-21T07:35:18.135Z"
   },
   "location": {
-    "city": "Columbus",
-    "region": "Ohio",
-    "country": "US",
-    "code": "43201",
-    "address": "83 W. 2nd Av #201"
+    "city": "",
+    "region": "Asia",
+    "country": "",
+    "code": "",
+    "address": ""
   },
   "employment": {
     "history": [
       {
-        "position": "Software Journeyman",
-        "employer": "Pillar Technology",
-        "summary": "Extreme Programming",
+        "position": "Founder and CTO",
+        "employer": "Arvo Technologies",
+        "summary": "Software Consulting and Engineering",
         "current": true,
-        "start": "2016-10-16",
+        "start": "2018-09-01",
         "end": "",
-        "url": "http://pillartechnology.com/",
+        "url": "",
         "keywords": [],
         "highlights": [
-          "Developing a big data platform as a service for data scientists in the automotive industry.",
-          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
-          "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
+          "Staff Augmentation for video streaming services built in AWS, Goland, and NodeJS",
+          "Educational Event management systems built on iOS, Android, and Google Cloud",
+          "Municipality KIOSK systems",
+          "Health Care Assesment and Planning systems, built in Android, iOS, and Google Cloud",
+          "Travel Planning systems built in iOS and Android"
         ]
       },
       {
-        "position": "Freelancer",
-        "employer": "Bobby Baker",
-        "summary": "Test Driven Development",
-        "current": true,
-        "start": "2016-01-01",
-        "end": "",
-        "url": "http://bobbybakes.github.io",
+        "position": "Software Journeyman",
+        "employer": "Pillar Technology",
+        "summary": "Extreme Programming",
+        "start": "2016-10-16",
+        "end": "2018-09-01",
+        "url": "http://pillartechnology.com/",
         "keywords": [],
         "highlights": [
-          "AWS",
-          "Geoprocessing",
-          "Front End Applications",
-          "Server Side Applications",
-          "Web Mapping",
-          "iOS Applications",
-          "Android Applications"
+          "Developed a big data platform as a service for data scientists in the automotive industry.",
+          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
+          "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
         ]
       },
       {
@@ -94,7 +100,7 @@
       {
         "institution": "The Ohio State University",
         "start": "2004-08-01",
-        "end": "2008-06-01",
+        "end": "2011-06-01",
         "summary": "",
         "area": "Geographic Information Systems and Analytical Cartography",
         "studyType": "Bachelor of Science"
@@ -104,6 +110,24 @@
   "service": {},
   "skills": {
     "sets": [
+      {
+        "name": "Native Development",
+        "level": "master",
+        "skills": [
+          "Flutter",
+          "ReactNative",
+          "Android"
+        ]
+      },
+      {
+        "name": "API Development",
+        "level": "master",
+        "skills": [
+          "Golang",
+          "Python",
+          "NodeJS"
+        ]
+      },
       {
         "name": "MEAN",
         "level": "master",
@@ -129,10 +153,12 @@
       },
       {
         "name": "Microservices",
-        "level": "intermediate",
+        "level": "master",
         "skills": [
           "Vert.x",
-          "AWS"
+          "AWS",
+          "LINERD",
+          "Nginx"
         ]
       },
       {
@@ -150,19 +176,14 @@
         "skills": [
           "Jenkins",
           "AWS",
-          "Docker"
+          "Docker",
+          "Appcenter"
         ]
       }
     ]
   },
   "writing": [],
   "social": [
-    {
-      "label": "LinkedIn",
-      "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/bobbyabaker/",
-      "user": "bobbyabaker"
-    },
     {
       "label": "GitHub",
       "network": "GitHub",
@@ -177,6 +198,13 @@
     }
   ],
   "interests": [
+    {
+      "name": "Free Diving",
+      "keywords": [
+        "AIDA3",
+        "30 meters"
+      ]
+    },
     {
       "name": "Kayaking",
       "keywords": [

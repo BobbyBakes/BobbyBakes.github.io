@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "hackmyresume": "^1.8.0",
+    "jsonresume-theme-elegant": "^1.13.2",
     "jsonresume-theme-stackoverflow": "^1.0.4",
     "wkhtmltopdf": "^0.3.4"
   },
