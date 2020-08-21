@@ -3,7 +3,7 @@
   "info": {
     "label": "Software Engineer",
     "image": "../images/bobAvatar.jpg",
-    "brief": "Striving to turn data, into knowledge."
+    "brief": "Striving to turn data into knowledge."
   },
   "contact": {
     "email": "bobby.a.baker@gmail.com",
@@ -12,11 +12,11 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-08-21T13:28:59.322Z"
+    "modified": "2020-08-21T16:39:38.601Z"
   },
   "location": {
     "city": "",
-    "region": "Asia",
+    "region": "Asia and Europe",
     "country": "",
     "code": "",
     "address": ""
@@ -33,10 +33,10 @@
         "url": "",
         "keywords": [],
         "highlights": [
-          "Staff Augmentation for video streaming services built in AWS, Goland, and NodeJS",
-          "Educational Event management systems built on iOS, Android, and Google Cloud",
-          "Municipality KIOSK systems",
-          "Health Care Assesment and Planning systems, built in Android, iOS, and Google Cloud",
+          "Staff Augmentation for video streaming services,  built in AWS, Golang, and NodeJS",
+          "Event management applications in the Educational Sector,  built on Flutter and Google Cloud",
+          "Municipality KIOSK systems, built in react and electron",
+          "Health Care Assessment and Planning applications, built in Flutter and Google Cloud",
           "Travel Planning systems built in iOS and Android"
         ]
       },
@@ -77,7 +77,8 @@
         "keywords": [],
         "highlights": [
           "Interactive Mapping Applications and Add-ons",
-          "FEMA floodplane mapping"
+          "FEMA floodplain mapping",
+          "Cartography"
         ]
       },
       {
@@ -227,23 +228,6 @@
     },
     {
       "name": "Photography"
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "Brad Ziss",
-      "flavor": "professional",
-      "private": false
-    },
-    {
-      "name": "Andrea Andrews",
-      "flavor": "professional",
-      "private": false
-    },
-    {
-      "name": "Jon Carder",
-      "flavor": "professional",
-      "private": false
     }
   ],
   "languages": [

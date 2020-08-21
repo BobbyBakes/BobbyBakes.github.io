@@ -5,13 +5,13 @@ basics:
   email: bobby.a.baker@gmail.com
   phone: +1-513-404-4499
   website: 'http://bobbybakes.github.io/'
-  summary: 'Striving to turn data, into knowledge.'
+  summary: 'Striving to turn data into knowledge.'
   location:
     address: ""
     postalCode: ""
     city: ""
     countryCode: ""
-    region: Asia
+    region: 'Asia and Europe'
   profiles:
     -
       network: GitHub
@@ -30,10 +30,10 @@ work:
     endDate: ""
     summary: 'Software Consulting and Engineering'
     highlights:
-      - 'Staff Augmentation for video streaming services built in AWS, Goland, and NodeJS'
-      - 'Educational Event management systems built on iOS, Android, and Google Cloud'
-      - 'Municipality KIOSK systems'
-      - 'Health Care Assesment and Planning systems, built in Android, iOS, and Google Cloud'
+      - 'Staff Augmentation for video streaming services,  built in AWS, Golang, and NodeJS'
+      - 'Event management applications in the Educational Sector,  built on Flutter and Google Cloud'
+      - 'Municipality KIOSK systems, built in react and electron'
+      - 'Health Care Assessment and Planning applications, built in Flutter and Google Cloud'
       - 'Travel Planning systems built in iOS and Android'
   -
     company: 'Pillar Technology'
@@ -65,7 +65,8 @@ work:
     summary: 'GIS Development and Analytical Cartography'
     highlights:
       - 'Interactive Mapping Applications and Add-ons'
-      - 'FEMA floodplane mapping'
+      - 'FEMA floodplain mapping'
+      - Cartography
   -
     company: 'The Ohio Department of Natural Resources'
     position: 'GIS Specialist'
@@ -168,16 +169,3 @@ interests:
       - Minimalist
   -
     name: Photography
-references:
-  -
-    name: 'Brad Ziss'
-    phone: '(614) 260-9753 - Mobile'
-    email: 'bradziss@yahoo.com - Personal'
-  -
-    name: 'Andrea Andrews'
-    phone: '(614) 893-3028 - Mobile'
-    email: 'ANDREA3@nationwide.com - Work'
-  -
-    name: 'Jon Carder'
-    phone: '(740)-816-44445 - Mobile'
-    email: 'jcarder@pillartechnology.com - Work'

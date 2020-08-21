@@ -6,15 +6,17 @@
   "dependencies": {
     "front-end-dependency-inject": "^1.0.6",
     "gulp": "^3.9.1",
+    "hackmyresume": "^1.9.0-beta",
     "jquery": "^3.2.1",
-    "yarn": "^0.24.5"
+    "jsonresume-theme-elegant": "^1.13.2"
   },
   "devDependencies": {
     "gulp-sass": "^3.1.0",
     "jsonresume-theme-flat-es": "0.0.1"
   },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume.json TO ./resume/bakerResume.all -t node_modules/jsonresume-theme-elegant/"
   },
   "repository": {
     "type": "git",
