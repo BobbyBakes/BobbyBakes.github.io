@@ -2,7 +2,7 @@ basics:
   name: 'Bobby Baker'
   label: 'Software Engineer'
   picture: ../images/bobAvatar.jpg
-  email: bobby.a.baker@gmail.com
+  email: bob@arvo.technology
   phone: +1-513-404-4499
   website: 'http://bobbybakes.github.io/'
   summary: 'GO Engineer. Turning data, into knowledge.'
@@ -30,7 +30,7 @@ work:
     endDate: ""
     summary: 'Software Consulting and Engineering'
     highlights:
-      - 'Staff Augmentation for video streaming services,  built in AWS, Golang, and NodeJS'
+      - 'Staff Augmentation in partnership with X-Team: Video streaming services,  built in AWS, Golang, and NodeJS'
       - 'Event management applications in the Educational Sector,  built on Flutter and Google Cloud'
       - 'Municipality KIOSK systems, built in react and electron'
       - 'Health Care Assessment and Planning applications, built in Flutter and Google Cloud'
