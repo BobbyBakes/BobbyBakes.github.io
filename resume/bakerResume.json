@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-09-12T05:06:29.076Z"
+    "modified": "2020-09-12T05:18:55.302Z"
   },
   "location": {
     "city": "",
@@ -33,7 +33,7 @@
         "url": "",
         "keywords": [],
         "highlights": [
-          "Staff Augmentation in partnership with X-Team: Video streaming services,  built in AWS, Golang, and NodeJS",
+          "Staff Augmentation in partnership with X-Team: Video streaming services built in AWS, Golang, and NodeJS",
           "Event management applications in the Educational Sector,  built on Flutter and Google Cloud",
           "Municipality KIOSK systems, built in react and electron",
           "Health Care Assessment and Planning applications, built in Flutter and Google Cloud",
