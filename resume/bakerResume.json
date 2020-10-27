@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-10-01T06:35:47.251Z"
+    "modified": "2020-10-27T12:43:07.646Z"
   },
   "location": {
     "city": "",
@@ -24,20 +24,16 @@
   "employment": {
     "history": [
       {
-        "position": "Founder and CTO",
-        "employer": "Arvo Technologies",
+        "position": "Software Engineer",
+        "employer": "X-Team",
         "summary": "Software Consulting and Engineering",
         "current": true,
         "start": "2018-09-01",
         "end": "",
-        "url": "",
+        "url": "https://x-team.com/",
         "keywords": [],
         "highlights": [
-          "Microservices built in AWS, Golang, and NodeJS",
-          "Event management applications in the Educational Sector,  built on Flutter and Google Cloud",
-          "Municipality KIOSK systems, built in react and electron",
-          "Health Care Assessment and Planning applications, built in Flutter and Google Cloud",
-          "Travel Planning systems built in iOS and Android"
+          "Video Streaming APIs and Microservices built in AWS, Golang, and NodeJS"
         ]
       },
       {
@@ -50,6 +46,7 @@
         "keywords": [],
         "highlights": [
           "Developed a big data platform as a service for data scientists in the automotive industry.",
+          "Developed a Android and Embedded devices in the automotive industry.",
           "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
           "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
         ]
