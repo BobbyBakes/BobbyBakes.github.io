@@ -39,6 +39,7 @@ work:
     endDate: '2018-09-01'
     summary: 'Extreme Programming'
     highlights:
+      - 'Developed internal iOS applications for clerical tasks.'
       - 'Developed a big data platform as a service for data scientists in the automotive industry.'
       - 'Developed Android and Embedded devices in the automotive industry.'
       - 'Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.'
@@ -55,7 +56,7 @@ work:
       - 'Java / Spring MVC'
   -
     company: Stantec
-    position: 'GIS Analyst'
+    position: 'GIS Analyst and Software Developer'
     website: 'http://www.stantec.com/'
     startDate: '2012-04-01'
     endDate: '2014-08-01'
@@ -91,6 +92,7 @@ skills:
       - Flutter
       - ReactNative
       - Android
+      - iOS
   -
     name: 'API Development'
     level: master
