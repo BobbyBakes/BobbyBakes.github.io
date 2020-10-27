@@ -3,16 +3,16 @@
   "info": {
     "label": "Software Engineer",
     "image": "../images/bobAvatar.jpg",
-    "brief": "GO Engineer. Turning data, into knowledge."
+    "brief": "Android, iOS, and GO Engineer. Turning data, into knowledge."
   },
   "contact": {
-    "email": "bob@arvo.technology",
+    "email": "robert.baker@x-team.com",
     "phone": "+1-513-404-4499",
     "website": "http://bobbybakes.github.io/"
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-10-27T12:43:07.646Z"
+    "modified": "2020-10-27T12:46:03.450Z"
   },
   "location": {
     "city": "",
@@ -46,7 +46,7 @@
         "keywords": [],
         "highlights": [
           "Developed a big data platform as a service for data scientists in the automotive industry.",
-          "Developed a Android and Embedded devices in the automotive industry.",
+          "Developed an Android and Embedded devices in the automotive industry.",
           "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
           "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
         ]

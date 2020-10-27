@@ -3,10 +3,10 @@
     "name": "Bobby Baker",
     "label": "Software Engineer",
     "picture": "../images/bobAvatar.jpg",
-    "email": "bob@arvo.technology",
+    "email": "robert.baker@x-team.com",
     "phone": "+1-513-404-4499",
     "website": "http://bobbybakes.github.io/",
-    "summary": "GO Engineer. Turning data, into knowledge.",
+    "summary": "Android, iOS, and GO Engineer. Turning data, into knowledge.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -48,7 +48,7 @@
       "summary": "Extreme Programming",
       "highlights": [
         "Developed a big data platform as a service for data scientists in the automotive industry.",
-        "Developed a Android and Embedded devices in the automotive industry.",
+        "Developed an Android and Embedded devices in the automotive industry.",
         "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
         "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
       ]
