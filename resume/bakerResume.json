@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2020-10-27T12:46:03.450Z"
+    "modified": "2020-10-27T12:48:48.773Z"
   },
   "location": {
     "city": "",
@@ -46,7 +46,7 @@
         "keywords": [],
         "highlights": [
           "Developed a big data platform as a service for data scientists in the automotive industry.",
-          "Developed an Android and Embedded devices in the automotive industry.",
+          "Developed Android and Embedded devices in the automotive industry.",
           "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
           "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
         ]
