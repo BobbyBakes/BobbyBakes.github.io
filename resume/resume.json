@@ -33,12 +33,12 @@
       "position": "Mobile Engineer",
       "website": "https://x-team.com/",
       "startDate": "2020-12-01",
-      "endDate": "",
+      "endDate": "2022-04-22",
       "summary": "Swift / Kotlin",
       "highlights": [
         "Converting Android / iOS to KMM Shared Libraries.",
         "Fixing legacy iOS issues.",
-        "SwiftUI development.", 
+        "SwiftUI development.",
         "Fixing legacy Android issues."
       ]
     },
@@ -52,6 +52,19 @@
       "highlights": [
         "Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.",
         "Responsible for migrating Node.js Microservices to GoLang."
+      ]
+    },
+    {
+      "position": "Blockchain Hackathon -2nd Place Winner",
+      "employer": "Cosmos HackAtom HCMC",
+      "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
+      "startDate": "2021-06-18",
+      "endDate": "2021-07-03",
+      "url": "https://devpost.com/software/certx",
+      "keywords": [],
+      "highlights": [
+        "Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.",
+        "https://github.com/whalelephant/CertX"
       ]
     },
     {

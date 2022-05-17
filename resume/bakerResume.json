@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-05-17T00:49:41.434Z"
+    "modified": "2022-05-17T17:29:40.678Z"
   },
   "location": {
     "city": "",
@@ -24,12 +24,22 @@
   "employment": {
     "history": [
       {
+        "position": "Blockchain Hackathon -2nd Place Winner",
+        "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
+        "start": "2021-06-18",
+        "end": "2021-07-03",
+        "keywords": [],
+        "highlights": [
+          "Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.",
+          "https://github.com/whalelephant/CertX"
+        ]
+      },
+      {
         "position": "Mobile Engineer",
         "employer": "X-Team",
         "summary": "Swift / Kotlin",
-        "current": true,
         "start": "2020-12-01",
-        "end": "",
+        "end": "2022-04-22",
         "url": "https://x-team.com/",
         "keywords": [],
         "highlights": [
