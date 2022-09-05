@@ -16,7 +16,8 @@
   },
   "scripts": {
     "test": "test",
-    "build": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume.json TO ./resume/bakerResume.all -t node_modules/jsonresume-theme-elegant/"
+    "build": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume.json TO ./resume/bakerResume.all -t node_modules/jsonresume-theme-elegant/",
+    "build-cloud": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume-cloud.json TO ./resume/bakerResumeCloud.all -t node_modules/jsonresume-theme-elegant/"
   },
   "repository": {
     "type": "git",

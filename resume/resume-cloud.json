@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bobby Baker",
-    "label": "Software Engineer",
+    "label": "Microservices Engineer",
     "picture": "../images/bobAvatar.jpg",
     "email": "robert.baker@x-team.com",
     "phone": "+1-513-404-4499",
     "website": "http://bobbybakes.github.io/",
-    "summary": "Native, Web, and GO Engineer. Turning data, into knowledge.",
+    "summary": "A Senior Software Engineer with over 10 years of experience with 5 years experience in the development and architecture of microservices. A versatile engineer with expertise in cross-platform products, security protocols, and efficient data solutions. Accomplished in leading teams to deliver solid systems and applying best practices in software development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,17 +29,14 @@
   },
   "work": [
     {
-      "company": "X-Team",
-      "position": "Mobile Engineer",
-      "website": "https://x-team.com/",
-      "startDate": "2020-12-01",
-      "endDate": "2022-04-22",
-      "summary": "Swift / Kotlin",
+      "company": "ETCH",
+      "position": "Microservices Engineer",
+      "website": "https://www.etchgis.com/",
+      "startDate": "2018-09-01",
+      "endDate": "",
+      "summary": "Microservices Architecture / Development",
       "highlights": [
-        "Converting Android / iOS to KMM Shared Libraries.",
-        "Fixing legacy iOS issues.",
-        "SwiftUI development.",
-        "Fixing legacy Android issues."
+        "Architected and developed event based cloud solutions to provide secure APIs and real time data solutions in the transportation industry."
       ]
     },
     {
@@ -55,6 +52,35 @@
       ]
     },
     {
+      "company": "Pillar Technology",
+      "position": "Software Journeyman / Microservices Engineer",
+      "website": "http://pillartechnology.com/",
+      "startDate": "2016-10-16",
+      "endDate": "2018-09-01",
+      "summary": "Extreme Programming",
+      "highlights": [
+        "Architected and developed a Big Data platform to advance data science within the automotive industry. Built with AWS and Hadoop.",
+        "Developed internal iOS applications for clerical tasks.",
+        "Developed Android and Embedded devices in the automotive industry.",
+        "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
+        "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
+      ]
+    },
+    {
+      "company": "X-Team",
+      "position": "Mobile Engineer",
+      "website": "https://x-team.com/",
+      "startDate": "2020-12-01",
+      "endDate": "2022-04-22",
+      "summary": "Swift / Kotlin",
+      "highlights": [
+        "Converting Android / iOS to KMM Shared Libraries.",
+        "Fixing legacy iOS issues.",
+        "SwiftUI development.",
+        "Fixing legacy Android issues."
+      ]
+    },
+    {
       "position": "Blockchain Hackathon -2nd Place Winner",
       "employer": "Cosmos HackAtom HCMC",
       "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
@@ -65,21 +91,6 @@
       "highlights": [
         "Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.",
         "https://github.com/whalelephant/CertX"
-      ]
-    },
-    {
-      "company": "Pillar Technology",
-      "position": "Software Journeyman",
-      "website": "http://pillartechnology.com/",
-      "startDate": "2016-10-16",
-      "endDate": "2018-09-01",
-      "summary": "Extreme Programming",
-      "highlights": [
-        "Developed internal iOS applications for clerical tasks.",
-        "Developed a big data platform as a service for data scientists in the automotive industry.",
-        "Developed Android and Embedded devices in the automotive industry.",
-        "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
-        "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
       ]
     },
     {

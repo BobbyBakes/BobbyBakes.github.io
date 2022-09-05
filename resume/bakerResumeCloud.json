@@ -1,9 +1,9 @@
 {
   "name": "Bobby Baker",
   "info": {
-    "label": "Software Engineer",
+    "label": "Microservices Engineer",
     "image": "../images/bobAvatar.jpg",
-    "brief": "Native, Web, and GO Engineer. Turning data, into knowledge."
+    "brief": "A Senior Software Engineer with over 10 years of experience with 5 years experience in the development and architecture of microservices. A versatile engineer with expertise in cross-platform products, security protocols, and efficient data solutions. Accomplished in leading teams to deliver solid systems and applying best practices in software development."
   },
   "contact": {
     "email": "robert.baker@x-team.com",
@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-09-05T06:24:29.938Z"
+    "modified": "2022-09-05T06:23:38.234Z"
   },
   "location": {
     "city": "",
@@ -51,6 +51,19 @@
       },
       {
         "position": "Microservices Engineer",
+        "employer": "ETCH",
+        "summary": "Microservices Architecture / Development",
+        "current": true,
+        "start": "2018-09-01",
+        "end": "",
+        "url": "https://www.etchgis.com/",
+        "keywords": [],
+        "highlights": [
+          "Architected and developed event based cloud solutions to provide secure APIs and real time data solutions in the transportation industry."
+        ]
+      },
+      {
+        "position": "Microservices Engineer",
         "employer": "X-Team",
         "summary": "Go / Node Microservices Development",
         "start": "2018-09-01",
@@ -63,7 +76,7 @@
         ]
       },
       {
-        "position": "Software Journeyman",
+        "position": "Software Journeyman / Microservices Engineer",
         "employer": "Pillar Technology",
         "summary": "Extreme Programming",
         "start": "2016-10-16",
@@ -71,8 +84,8 @@
         "url": "http://pillartechnology.com/",
         "keywords": [],
         "highlights": [
+          "Architected and developed a Big Data platform to advance data science within the automotive industry. Built with AWS and Hadoop.",
           "Developed internal iOS applications for clerical tasks.",
-          "Developed a big data platform as a service for data scientists in the automotive industry.",
           "Developed Android and Embedded devices in the automotive industry.",
           "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
           "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
