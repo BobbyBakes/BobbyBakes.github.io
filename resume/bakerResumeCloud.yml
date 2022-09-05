@@ -2,7 +2,7 @@ basics:
   name: 'Bobby Baker'
   label: 'Microservices Engineer'
   picture: ../images/bobAvatar.jpg
-  email: robert.baker@x-team.com
+  email: bob@arvo.technology
   phone: +1-513-404-4499
   website: 'http://bobbybakes.github.io/'
   summary: 'A Senior Software Engineer with over 10 years of experience with 5 years experience in the development and architecture of microservices. A versatile engineer with expertise in cross-platform products, security protocols, and efficient data solutions. Accomplished in leading teams to deliver solid systems and applying best practices in software development.'
