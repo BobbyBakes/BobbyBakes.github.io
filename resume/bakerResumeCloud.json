@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-09-05T06:39:31.820Z"
+    "modified": "2022-09-05T06:43:53.143Z"
   },
   "location": {
     "city": "",
@@ -138,7 +138,7 @@
     "history": [
       {
         "institution": "The Ohio State University",
-        "start": "2004-08-01",
+        "start": "2006-08-01",
         "end": "2011-06-01",
         "summary": "",
         "area": "Geographic Information Systems and Analytical Cartography",
