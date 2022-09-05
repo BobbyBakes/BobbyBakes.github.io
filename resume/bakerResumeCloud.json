@@ -3,7 +3,7 @@
   "info": {
     "label": "Microservices Engineer",
     "image": "../images/bobAvatar.jpg",
-    "brief": "A Senior Software Engineer with over 10 years of experience with 5 years experience in the development and architecture of microservices. A versatile engineer with expertise in cross-platform products, security protocols, and efficient data solutions. Accomplished in leading teams to deliver solid systems and applying best practices in software development."
+    "brief": "A Senior Software Engineer with over 10 years of engineering experience and 5 years of experience in the development and architecture of cloud based solutions. A versatile engineer with expertise in cross-platform products, security protocols, and efficient data solutions. Accomplished in leading teams to deliver solid systems and applying best practices in software development."
   },
   "contact": {
     "email": "bob@arvo.technology",
@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-09-05T06:43:53.143Z"
+    "modified": "2022-09-05T06:46:29.768Z"
   },
   "location": {
     "city": "",
