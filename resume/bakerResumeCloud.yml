@@ -43,40 +43,48 @@ work:
       - 'Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.'
       - 'https://github.com/whalelephant/CertX'
   -
-    company: X-Team
+    company: 'X-Team - RIOT GAMES'
     position: 'Mobile Engineer'
     website: 'https://x-team.com/'
     startDate: '2020-12-01'
-    endDate: ""
+    endDate: '2021-12-01'
     summary: 'Swift / Kotlin'
     highlights:
-      - 'Converting Android / iOS to KMM Shared Libraries.'
-      - 'Fixing legacy iOS issues.'
+      - 'Converted Android / iOS to KMM Shared Libraries.'
+      - 'Fixed legacy iOS issues.'
       - 'SwiftUI development.'
-      - 'Fixing legacy Android issues.'
+      - 'Fixed legacy Android issues.'
   -
     company: X-Team
-    position: 'Microservices Engineer'
+    position: 'Microservices Engineer - Fox Broadcasting'
     website: 'https://x-team.com/'
     startDate: '2018-09-01'
     endDate: '2020-10-01'
     summary: 'Go / Node Microservices Development'
     highlights:
-      - 'Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.'
+      - 'Developed Microservices in Node.js and GoLang in AWS to serve low-latency streaming to platforms such as web and native devices.'
       - 'Responsible for migrating Node.js Microservices to GoLang.'
   -
-    company: 'Pillar Technology'
+    company: 'Pillar Technology - Honda Automotive'
+    position: 'Software Journeyman / Microservices Engineer'
+    website: 'http://pillartechnology.com/'
+    startDate: '2018-03-01'
+    endDate: '2018-09-01'
+    summary: 'Extreme Programming'
+    highlights:
+      - 'Architected and developed a Big Data platform to advance data science and improve deep learning algorithms.'
+      - 'Built with AWS and Hadoop, developed ETL (Extract, Transform, And Load) solutions to extract vehicle data to be loaded into Virtual Machines.'
+      - 'Built with AWS and Jupiter notebook. developed solutions to allow Data Scientists to analysis on vehicle data to glean incites on driver activity.'
+  -
+    company: 'Pillar Technology - Ford Automotive / Columbus Collaboratory'
     position: 'Software Journeyman / Microservices Engineer'
     website: 'http://pillartechnology.com/'
     startDate: '2016-10-16'
     endDate: '2018-09-01'
     summary: 'Extreme Programming'
     highlights:
-      - 'Architected and developed a Big Data platform to advance data science within the automotive industry. Built with AWS and Hadoop.'
-      - 'Developed internal iOS applications for clerical tasks.'
-      - 'Developed Android and Embedded devices in the automotive industry.'
-      - 'Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.'
       - 'Developed applications and provided agile consulting on an embedded software project in the automotive industry.'
+      - 'Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.'
   -
     company: 'Nationwide Insurance'
     position: 'Senior Developer, IT Applications'

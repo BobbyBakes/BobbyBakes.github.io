@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-09-05T06:46:29.768Z"
+    "modified": "2022-09-12T08:31:58.349Z"
   },
   "location": {
     "city": "",
@@ -49,22 +49,21 @@
       },
       {
         "position": "Mobile Engineer",
-        "employer": "X-Team",
+        "employer": "X-Team - RIOT GAMES",
         "summary": "Swift / Kotlin",
-        "current": true,
         "start": "2020-12-01",
-        "end": "",
+        "end": "2021-12-01",
         "url": "https://x-team.com/",
         "keywords": [],
         "highlights": [
-          "Converting Android / iOS to KMM Shared Libraries.",
-          "Fixing legacy iOS issues.",
+          "Converted Android / iOS to KMM Shared Libraries.",
+          "Fixed legacy iOS issues.",
           "SwiftUI development.",
-          "Fixing legacy Android issues."
+          "Fixed legacy Android issues."
         ]
       },
       {
-        "position": "Microservices Engineer",
+        "position": "Microservices Engineer - Fox Broadcasting",
         "employer": "X-Team",
         "summary": "Go / Node Microservices Development",
         "start": "2018-09-01",
@@ -72,24 +71,35 @@
         "url": "https://x-team.com/",
         "keywords": [],
         "highlights": [
-          "Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.",
+          "Developed Microservices in Node.js and GoLang in AWS to serve low-latency streaming to platforms such as web and native devices.",
           "Responsible for migrating Node.js Microservices to GoLang."
         ]
       },
       {
         "position": "Software Journeyman / Microservices Engineer",
-        "employer": "Pillar Technology",
+        "employer": "Pillar Technology - Honda Automotive",
+        "summary": "Extreme Programming",
+        "start": "2018-03-01",
+        "end": "2018-09-01",
+        "url": "http://pillartechnology.com/",
+        "keywords": [],
+        "highlights": [
+          "Architected and developed a Big Data platform to advance data science and improve deep learning algorithms.",
+          "Built with AWS and Hadoop, developed ETL (Extract, Transform, And Load) solutions to extract vehicle data to be loaded into Virtual Machines.",
+          "Built with AWS and Jupiter notebook. developed solutions to allow Data Scientists to analysis on vehicle data to glean incites on driver activity."
+        ]
+      },
+      {
+        "position": "Software Journeyman / Microservices Engineer",
+        "employer": "Pillar Technology - Ford Automotive / Columbus Collaboratory",
         "summary": "Extreme Programming",
         "start": "2016-10-16",
         "end": "2018-09-01",
         "url": "http://pillartechnology.com/",
         "keywords": [],
         "highlights": [
-          "Architected and developed a Big Data platform to advance data science within the automotive industry. Built with AWS and Hadoop.",
-          "Developed internal iOS applications for clerical tasks.",
-          "Developed Android and Embedded devices in the automotive industry.",
-          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
-          "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
+          "Developed applications and provided agile consulting on an embedded software project in the automotive industry.",
+          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities."
         ]
       },
       {
