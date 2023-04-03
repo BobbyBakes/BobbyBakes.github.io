@@ -30,6 +30,30 @@
   },
   "work": [
     {
+      "position": "Web Engineer",
+      "name": "X-Team Internal",
+      "summary": "React / AWS",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-01",
+      "url": "https://www.xteam.com/",
+      "keywords": ["React", "NextJS"],
+      "highlights": ["Built invoicing and productivity web applications"]
+    },
+    {
+      "position": "Web Engineer",
+      "name": "Arvo Technologies - ETCH",
+      "summary": "React / AWS",
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "url": "https://www.etchgis.com/",
+      "keywords": ["React", "AWS"],
+      "highlights": [
+        "ETCH is a firm that provides clients with customized geospatial solutions that streamline mobility and enhance user experience. ",
+        "Built web based interactive mapping applications built in React",
+        "Built AWS microservices to provide backend services to transportation projects"
+      ]
+    },
+    {
       "position": "Mobile Engineer",
       "name": "X-Team - Fanatics",
       "summary": "Swift / Kotlin",
