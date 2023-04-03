@@ -1,214 +1,255 @@
 {
-  "basics": {
-    "name": "Bobby Baker",
+  "name": "Bobby Baker",
+  "info": {
     "label": "Software Engineer",
-    "picture": "../images/bobAvatar.jpg",
+    "image": "../images/bobAvatar.jpg",
+    "brief": "Native, Web, and GO Engineer. Specializing in iOS and SwiftUI. Turning data, into knowledge."
+  },
+  "contact": {
     "email": "robert.baker@x-team.com",
     "phone": "+1-513-404-4499",
-    "website": "http://bobbybakes.github.io/",
-    "summary": "Native, Web, and GO Engineer. Turning data, into knowledge.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": "Global"
-    },
-    "profiles": [
+    "website": "http://bobbybakes.github.io/"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "theme": "elegant",
+    "modified": "2022-09-05T06:24:29.938Z"
+  },
+  "location": {
+    "city": "Florianópolis",
+    "region": "Santa Catarina",
+    "country": "Brazil",
+    "code": "",
+    "address": ""
+  },
+  "employment": {
+    "history": [
       {
-        "network": "GitHub",
-        "username": "BobbyBakes",
-        "url": "https://github.com/BobbyBakes"
+        "position": "Blockchain Hackathon -2nd Place Winner",
+        "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
+        "start": "2021-06-18",
+        "end": "2021-07-03",
+        "keywords": [],
+        "highlights": [
+          "Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.",
+          "https://github.com/whalelephant/CertX"
+        ]
       },
       {
-        "network": "Instagram",
-        "username": "bakerbobb",
-        "url": "https://www.instagram.com/bakerbobb/"
+        "position": "Mobile Engineer",
+        "employer": "X-Team - Fanatics",
+        "summary": "Swift / Kotlin",
+        "start": "2022-10-00",
+        "end": "2023-03-31",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Developed KM components to deliver view data within MVVM-C architecture in Android / Swift",
+          "Designed KM and Swift Architecture (MVVM-C)",
+          "Provided support on Android/iOS parity issues"
+        ]
+      },
+      {
+        "position": "Mobile Engineer",
+        "employer": "X-Team - Vice Media",
+        "summary": "Swift / Kotlin",
+        "start": "2021-12-01",
+        "end": "2022-05-01",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Designed and implemented architectural patterns in SwiftUI and KMM (MVVM)",
+          "Helped determine video manipulation strategies using FFMPEG",
+          "Mentored the teams in SwiftUI and KM best practices"
+        ]
+      },
+      {
+        "position": "Mobile Engineer",
+        "employer": "X-Team - Riot Games",
+        "summary": "Swift / Kotlin",
+        "start": "2020-12-01",
+        "end": "2021-04-11",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Developed KMM Shared Libraries.",
+          "Fixed legacy iOS/Android issues.",
+          "Facilitated architectural designs in MVVM and KM"
+        ]
+      },
+      {
+        "position": "Microservices Engineer",
+        "employer": "X-Team",
+        "summary": "Go / Node Microservices Development",
+        "start": "2018-09-01",
+        "end": "2020-10-01",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.",
+          "Responsible for migrating Node.js Microservices to GoLang."
+        ]
+      },
+      {
+        "position": "Software Journeyman",
+        "employer": "Pillar Technology",
+        "summary": "Extreme Programming",
+        "start": "2016-10-16",
+        "end": "2018-09-01",
+        "url": "http://pillartechnology.com/",
+        "keywords": [],
+        "highlights": [
+          "Developed internal iOS applications for clerical tasks.",
+          "Developed a big data platform as a service for data scientists in the automotive industry.",
+          "Developed Android and Embedded devices in the automotive industry.",
+          "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
+          "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
+        ]
+      },
+      {
+        "position": "Senior Developer, IT Applications",
+        "employer": "Nationwide Insurance",
+        "summary": "J2EE, customer-facing web applications",
+        "start": "2014-08-01",
+        "end": "2016-10-16",
+        "url": "https://www.nationwide.com/",
+        "keywords": [],
+        "highlights": [
+          "Tech Lead / Mentor",
+          "Java / Spring MVC"
+        ]
+      },
+      {
+        "position": "GIS Analyst and Software Developer",
+        "employer": "Stantec",
+        "summary": "GIS Development and Analytical Cartography",
+        "start": "2012-04-01",
+        "end": "2014-08-01",
+        "url": "http://www.stantec.com/",
+        "keywords": [],
+        "highlights": [
+          "Interactive Mapping Applications and Add-ons",
+          "FEMA floodplain mapping",
+          "Cartography"
+        ]
+      },
+      {
+        "position": "GIS Specialist",
+        "employer": "The Ohio Department of Natural Resources",
+        "summary": "GIS Analyst",
+        "start": "2008-01-01",
+        "end": "2012-04-01",
+        "url": "http://ohiodnr.gov/",
+        "keywords": [],
+        "highlights": [
+          "Groundwater Resource Mapping"
+        ]
       }
     ]
   },
-  "work": [
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "The Ohio State University",
+        "start": "2004-08-01",
+        "end": "2011-06-01",
+        "summary": "",
+        "area": "Geographic Information Systems and Analytical Cartography",
+        "studyType": "Bachelor of Science"
+      }
+    ]
+  },
+  "service": {},
+  "skills": {
+    "sets": [
+      {
+        "name": "Native Development",
+        "level": "master",
+        "skills": [
+          "Flutter",
+          "ReactNative",
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "name": "API Development",
+        "level": "master",
+        "skills": [
+          "Golang",
+          "Python",
+          "NodeJS"
+        ]
+      },
+      {
+        "name": "MEAN",
+        "level": "master",
+        "skills": [
+          "Mongo",
+          "Express",
+          "Angular 1/2",
+          "Node"
+        ]
+      },
+      {
+        "name": "J2EE",
+        "level": "master",
+        "skills": [
+          "WebSphere",
+          "Java",
+          "JSP",
+          "Gradle",
+          "Maven",
+          "Groovy",
+          "Spring MVC"
+        ]
+      },
+      {
+        "name": "Microservices",
+        "level": "master",
+        "skills": [
+          "Vert.x",
+          "AWS",
+          "LINKERD",
+          "Nginx",
+          "Serverless.io"
+        ]
+      },
+      {
+        "name": "Big Data",
+        "level": "master",
+        "skills": [
+          "Hadoop",
+          "HBASE",
+          "SPARK"
+        ]
+      },
+      {
+        "name": "Dev Ops",
+        "level": "master",
+        "skills": [
+          "Jenkins",
+          "AWS",
+          "Docker",
+          "Appcenter"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
     {
-      "company": "X-Team",
-      "position": "Mobile Engineer",
-      "website": "https://x-team.com/",
-      "startDate": "2020-12-01",
-      "endDate": "2022-04-22",
-      "summary": "Swift / Kotlin",
-      "highlights": [
-        "Converting Android / iOS to KMM Shared Libraries.",
-        "Fixing legacy iOS issues.",
-        "SwiftUI development.",
-        "Fixing legacy Android issues."
-      ]
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/BobbyBakes",
+      "user": "BobbyBakes"
     },
     {
-      "company": "X-Team",
-      "position": "Microservices Engineer",
-      "website": "https://x-team.com/",
-      "startDate": "2018-09-01",
-      "endDate": "2020-10-01",
-      "summary": "Go / Node Microservices Development",
-      "highlights": [
-        "Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.",
-        "Responsible for migrating Node.js Microservices to GoLang."
-      ]
-    },
-    {
-      "position": "Blockchain Hackathon -2nd Place Winner",
-      "employer": "Cosmos HackAtom HCMC",
-      "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
-      "startDate": "2021-06-18",
-      "endDate": "2021-07-03",
-      "url": "https://devpost.com/software/certx",
-      "keywords": [],
-      "highlights": [
-        "Built in Go, this project is designed to demonstrate the use of IBC between different zones in the Cosmos ecosystem for privacy preserving credential management.",
-        "https://github.com/whalelephant/CertX"
-      ]
-    },
-    {
-      "company": "Pillar Technology",
-      "position": "Software Journeyman",
-      "website": "http://pillartechnology.com/",
-      "startDate": "2016-10-16",
-      "endDate": "2018-09-01",
-      "summary": "Extreme Programming",
-      "highlights": [
-        "Developed internal iOS applications for clerical tasks.",
-        "Developed a big data platform as a service for data scientists in the automotive industry.",
-        "Developed Android and Embedded devices in the automotive industry.",
-        "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
-        "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
-      ]
-    },
-    {
-      "company": "Nationwide Insurance",
-      "position": "Senior Developer, IT Applications",
-      "website": "https://www.nationwide.com/",
-      "startDate": "2014-08-01",
-      "endDate": "2016-10-16",
-      "summary": "J2EE, customer-facing web applications",
-      "highlights": [
-        "Tech Lead / Mentor",
-        "Java / Spring MVC"
-      ]
-    },
-    {
-      "company": "Stantec",
-      "position": "GIS Analyst and Software Developer",
-      "website": "http://www.stantec.com/",
-      "startDate": "2012-04-01",
-      "endDate": "2014-08-01",
-      "summary": "GIS Development and Analytical Cartography",
-      "highlights": [
-        "Interactive Mapping Applications and Add-ons",
-        "FEMA floodplain mapping",
-        "Cartography"
-      ]
-    },
-    {
-      "company": "The Ohio Department of Natural Resources",
-      "position": "GIS Specialist",
-      "website": "http://ohiodnr.gov/",
-      "startDate": "2008-01-01",
-      "endDate": "2012-04-01",
-      "summary": "GIS Analyst",
-      "highlights": [
-        "Groundwater Resource Mapping"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "The Ohio State University",
-      "area": "Geographic Information Systems and Analytical Cartography",
-      "studyType": "Bachelor of Science",
-      "startDate": "2004-08-01",
-      "endDate": "2011-06-01"
-    }
-  ],
-  "awards": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Native Development",
-      "level": "master",
-      "keywords": [
-        "Flutter",
-        "ReactNative",
-        "Android",
-        "iOS"
-      ]
-    },
-    {
-      "name": "API Development",
-      "level": "master",
-      "keywords": [
-        "Golang",
-        "Python",
-        "NodeJS"
-      ]
-    },
-    {
-      "name": "MEAN",
-      "level": "master",
-      "keywords": [
-        "Mongo",
-        "Express",
-        "Angular 1/2",
-        "Node"
-      ]
-    },
-    {
-      "name": "J2EE",
-      "level": "master",
-      "keywords": [
-        "WebSphere",
-        "Java",
-        "JSP",
-        "Gradle",
-        "Maven",
-        "Groovy",
-        "Spring MVC"
-      ]
-    },
-    {
-      "name": "Microservices",
-      "level": "master",
-      "keywords": [
-        "Vert.x",
-        "AWS",
-        "LINKERD",
-        "Nginx",
-        "Serverless.io"
-      ]
-    },
-    {
-      "name": "Big Data",
-      "level": "master",
-      "keywords": [
-        "Hadoop",
-        "HBASE",
-        "SPARK"
-      ]
-    },
-    {
-      "name": "Dev Ops",
-      "level": "master",
-      "keywords": [
-        "Jenkins",
-        "AWS",
-        "Docker",
-        "Appcenter"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
+      "label": "Instagram",
+      "network": "Instagram",
+      "url": "https://www.instagram.com/bakerbobb/",
+      "user": "bakerbobb"
     }
   ],
   "interests": [
@@ -238,6 +279,12 @@
       "keywords": [
         "Sony Alpha"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
     }
   ]
 }

@@ -1,0 +1,57 @@
+Arguments: 
+  /Users/bob/.nvm/versions/node/v14.18.1/bin/node /usr/local/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js add jsonresume-theme-elegan
+
+PATH: 
+  /Users/bob/.serverless/bin:/Users/bob/development/google-cloud-sdk/bin:/Users/bob/.nvm/versions/node/v14.18.1/bin:/Users/bob/.rbenv/shims:/Users/bob/.pyenv/shims:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/bob/development/flutter/bin:/Users/bob/development/flutter/bin/cache/dart-sdk/bin:/Users/bob/go/bin:/Users/bob/Library/Android/sdk/platform-tools:/Users/bob/Library/Android/sdk/tools:/Users/bob/.pub-cache/bin:/Users/bob/.ngrok
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/jsonresume-theme-elegan: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:67029:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:140883:22)
+      at Request.emit (events.js:400:28)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:141855:10)
+      at Request.emit (events.js:400:28)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:141777:12)
+      at Object.onceWrapper (events.js:519:28)
+      at IncomingMessage.emit (events.js:412:35)
+      at endReadableNT (internal/streams/readable.js:1334:12)
+      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+
+npm manifest: 
+  {
+    "name": "resume",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "hackmyresume": "^1.8.0",
+      "jsonresume-theme-elegant": "^1.13.2",
+      "jsonresume-theme-stackoverflow": "^1.0.4",
+      "wkhtmltopdf": "^0.3.4"
+    },
+    "devDependencies": {
+      "jsonresume-theme-flat": "^0.3.7",
+      "jsonresume-theme-flat-es": "0.0.1",
+      "jsonresume-theme-paper": "^0.3.5"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -3,7 +3,7 @@
   "info": {
     "label": "Software Engineer",
     "image": "../images/bobAvatar.jpg",
-    "brief": "Native, Web, and GO Engineer. Turning data, into knowledge."
+    "brief": "Native, Web, and GO Engineer. Specializing in iOS and SwiftUI. Turning data, into knowledge."
   },
   "contact": {
     "email": "robert.baker@x-team.com",
@@ -12,17 +12,38 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2022-09-05T06:24:29.938Z"
-  },
-  "location": {
-    "city": "",
-    "region": "Global",
-    "country": "",
-    "code": "",
-    "address": ""
+    "modified": "2023-04-03T14:12:02.269Z"
   },
   "employment": {
     "history": [
+      {
+        "position": "Mobile Engineer",
+        "employer": "X-Team - Fanatics",
+        "summary": "Swift / Kotlin",
+        "start": "2022-10-22",
+        "end": "2023-03-31",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Developed KM components to deliver view data within MVVM-C architecture in Android / Swift",
+          "Designed KM and Swift Architecture (MVVM-C)",
+          "Provided support on Android/iOS parity issues"
+        ]
+      },
+      {
+        "position": "Mobile Engineer",
+        "employer": "X-Team - Vice Media",
+        "summary": "Swift / Kotlin",
+        "start": "2021-12-01",
+        "end": "2022-05-01",
+        "url": "https://x-team.com/",
+        "keywords": [],
+        "highlights": [
+          "Designed and implemented architectural patterns in SwiftUI and KMM (MVVM)",
+          "Helped determine video manipulation strategies using FFMPEG",
+          "Mentored the teams in SwiftUI and KM best practices"
+        ]
+      },
       {
         "position": "Blockchain Hackathon -2nd Place Winner",
         "summary": "IBC Challenge: Build a blockchain application that utilizes IBC, or build a novel use case for the IBC protocol.",
@@ -36,17 +57,16 @@
       },
       {
         "position": "Mobile Engineer",
-        "employer": "X-Team",
+        "employer": "X-Team - Riot Games",
         "summary": "Swift / Kotlin",
         "start": "2020-12-01",
-        "end": "2022-04-22",
+        "end": "2021-04-11",
         "url": "https://x-team.com/",
         "keywords": [],
         "highlights": [
-          "Converting Android / iOS to KMM Shared Libraries.",
-          "Fixing legacy iOS issues.",
-          "SwiftUI development.",
-          "Fixing legacy Android issues."
+          "Developed KMM Shared Libraries.",
+          "Fixed legacy iOS/Android issues.",
+          "Facilitated architectural designs in MVVM and KM"
         ]
       },
       {
@@ -132,7 +152,6 @@
       }
     ]
   },
-  "service": {},
   "skills": {
     "sets": [
       {
@@ -209,7 +228,6 @@
       }
     ]
   },
-  "writing": [],
   "social": [
     {
       "label": "GitHub",
