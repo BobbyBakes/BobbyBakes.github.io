@@ -1,0 +1,266 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bobby Baker",
+    "label": "Software Engineer",
+    "image": "../images/bobAvatar.jpg",
+    "email": "bobby.baker@x-team.com",
+    "phone": "+1-513-404-4499",
+    "url": "http://bobbybakes.github.io/",
+    "summary": "Web, Mobile, and Backend engineer. Specializing in Go and Kotlin Multiplatform. Turning data into knowledge.",
+    "location": {
+      "city": "Florianópolis",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "code": "",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "bakerbobb",
+        "url": "https://www.instagram.com/bakerbobb/"
+      },
+      {
+        "network": "github",
+        "username": "bobbybakes",
+        "url": "https://github.com/BobbyBakes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "position": "Web Engineer",
+      "name": "X-Team Internal",
+      "summary": "React / AWS",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-01",
+      "url": "https://www.xteam.com/",
+      "keywords": ["React", "NextJS"],
+      "highlights": ["Built invoicing and productivity web applications"]
+    },
+    {
+      "position": "Mobile Engineer",
+      "name": "X-Team - Fanatics",
+      "summary": "Swift / Kotlin",
+      "startDate": "2022-10-01",
+      "endDate": "2023-03-31",
+      "url": "https://www.fanaticsinc.com/fanatics-betting-gaming",
+      "keywords": [],
+      "highlights": [
+        "Developed KM components to deliver view data within MVVM-C architecture in Android / Swift",
+        "Designed KM and Swift Architecture (MVVM-C)",
+        "Provided support on Android/iOS parity issues"
+      ]
+    },
+    {
+      "position": "Mobile Engineer",
+      "name": "X-Team - Vice Media",
+      "summary": "Swift / Kotlin",
+      "startDate": "2021-10-01",
+      "endDate": "2022-05-01",
+      "url": "https://www.vice.com/en",
+      "keywords": [],
+      "highlights": [
+        "Designed and implemented architectural patterns in SwiftUI and KMM (MVVM)",
+        "Helped determine video manipulation strategies using FFMPEG",
+        "Mentored the teams in SwiftUI and KM best practices"
+      ]
+    },
+    {
+      "position": "Mobile Engineer",
+      "name": "X-Team - Riot Games",
+      "summary": "Swift / Kotlin",
+      "startDate": "2020-12-01",
+      "endDate": "2021-12-01",
+      "url": "https://www.riotgames.com/en/news/now-streaming-on-riot-mobile",
+      "keywords": [],
+      "highlights": [
+        "Developed KMM Shared Libraries.",
+        "Fixed legacy iOS/Android issues.",
+        "Facilitated architectural designs in MVVM and KM"
+      ]
+    },
+    {
+      "position": "Microservices Engineer",
+      "name": "X-Team - Fox Broadcasting",
+      "summary": "Go / Node Microservices Development",
+      "startDate": "2018-09-01",
+      "endDate": "2020-10-01",
+      "url": "https://www.fox.com/article/fox-now-app-598b6e18311288001fef0f04/",
+      "keywords": [],
+      "highlights": [
+        "Developed Microservices in Node.js and GoLang to serve low-latency streaming to platforms such as web and native devices.",
+        "Responsible for migrating Node.js Microservices to GoLang."
+      ]
+    },
+    {
+      "position": "Software Journeyman",
+      "name": "Pillar Technology (acquired by Accenture)",
+      "summary": "Extreme Programming",
+      "startDate": "2016-10-01",
+      "endDate": "2018-09-01",
+      "url": "https://www.accenture.com/my-en/about/industry-x-index",
+      "keywords": [],
+      "highlights": [
+        "Developed internal iOS applications for clerical tasks.",
+        "Developed a big data platform as a service for data scientists in the automotive industry.",
+        "Developed Android and Embedded devices in the automotive industry.",
+        "Developed a cyber security solution, using advanced analytics to aggregate and identify malicious threats and vulnerabilities.",
+        "Developed applications and provided agile consulting on an embedded software project in the automotive industry."
+      ]
+    },
+    {
+      "position": "Senior Developer, IT Applications",
+      "name": "Nationwide Insurance",
+      "summary": "J2EE, customer-facing web applications",
+      "startDate": "2014-08-01",
+      "endDate": "2016-10-16",
+      "url": "https://www.nationwide.com/",
+      "keywords": [],
+      "highlights": ["Tech Lead / Mentor", "Java / Spring MVC"]
+    },
+    {
+      "position": "GIS Analyst and Software Developer",
+      "name": "Stantec",
+      "summary": "GIS Development and Analytical Cartography",
+      "startDate": "2012-04-01",
+      "endDate": "2014-08-01",
+      "url": "http://www.stantec.com/",
+      "keywords": [],
+      "highlights": [
+        "Interactive Mapping Applications and Add-ons",
+        "FEMA floodplain mapping",
+        "Cartography"
+      ]
+    },
+    {
+      "position": "GIS Specialist",
+      "name": "The Ohio Department of Natural Resources",
+      "summary": "GIS Analyst",
+      "startDate": "2008-01-01",
+      "endDate": "2012-04-01",
+      "url": "http://ohiodnr.gov/",
+      "keywords": [],
+      "highlights": ["Groundwater Resource Mapping"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The Ohio State University",
+      "startDate": "2004-08-01",
+      "endDate": "2011-06-01",
+      "summary": "",
+      "area": "Geographic Information Systems and Analytical Cartography",
+      "studyType": "Bachelor of Science"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["React", "HTML", "JS", "Redux", "NextJS", "Angular"]
+    },
+    {
+      "name": "Native Development",
+      "level": "master",
+      "keywords": ["Flutter", "ReactNative", "Android", "iOS", "KMM"]
+    },
+    {
+      "name": "API Development",
+      "level": "master",
+      "keywords": ["Golang", "Python", "NodeJS"]
+    },
+    {
+      "name": "MEAN",
+      "level": "master",
+      "keywords": ["Mongo", "Express", "Angular 1/2", "Node"]
+    },
+    {
+      "name": "J2EE",
+      "level": "master",
+      "keywords": [
+        "WebSphere",
+        "Java",
+        "JSP",
+        "Gradle",
+        "Maven",
+        "Groovy",
+        "Spring MVC"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "level": "master",
+      "keywords": ["Vert.x", "AWS", "LINKERD", "Nginx", "Serverless.io"]
+    },
+    {
+      "name": "Big Data",
+      "level": "master",
+      "keywords": ["Hadoop", "HBASE", "SPARK"]
+    },
+    {
+      "name": "Dev Ops",
+      "level": "master",
+      "keywords": ["Jenkins", "AWS", "Docker", "Appcenter"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Free Diving",
+      "keywords": ["Wave3", "32 meters PB"]
+    },
+    {
+      "name": "Spear Fishing",
+      "keywords": []
+    },
+    {
+      "name": "Kayaking",
+      "keywords": ["Fishing", "Extreme", "Leisure"]
+    },
+    {
+      "name": "Hiking",
+      "keywords": ["Backpacking"]
+    },
+    {
+      "name": "Photography",
+      "keywords": ["Sony Alpha"]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Blockchain Hackathon",
+      "description": "IBC Challenge: Build a blockchain application that utilizes IBC",
+      "highlights": [
+        "2nd Place Winner",
+        "Verifiable credential system on Cosmos with IBC for Distributed Identities"
+      ],
+      "keywords": ["Golang", "IBC", "Blockchain", "Cosmos"],
+      "startDate": "2021-06-18",
+      "endDate": "2021-07-03",
+      "url": "https://github.com/whalelephant/CertX",
+      "roles": ["Team lead", "Designer"],
+      "entity": "",
+      "type": "blockchain"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

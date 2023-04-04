@@ -17,6 +17,7 @@
   "scripts": {
     "test": "test",
     "build-cli": "resume export resume/bakerResume.html --theme elegant -r resume/resume2.json",
+    "build-cli-x-team": "resume export resume/bakerResumeXTeam.html --theme elegant -r resume/resume-x-team.json",
     "build": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume.json TO ./resume/bakerResumeAir.all -t node_modules/jsonresume-theme-elegant/",
     "build-cloud": "./node_modules/hackmyresume/dist/cli/index.js build resume/resume-cloud.json TO ./resume/bakerResumeCloud.all -t node_modules/jsonresume-theme-elegant/"
   },
